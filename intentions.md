@@ -42,12 +42,5 @@ che verranno utilizzate per la creazione di eclipse
 
     Modalità minimal tipo Samaritan (Person of Interest) attivabile.
 
-🛠️ Extra
 
-    Lavori anche all'estetica e alla modularità della GUI con PySide6.
-
-    C'è una designer che potrebbe aiutarti (eventualmente a pagamento).
-
-    Il progetto è sia personale che strategico per il CV e il mondo del lavoro.
-
-    Stai studiando e progettando a tappe, con occhio all’ottimizzazione del tempo.
+- Myosotis
