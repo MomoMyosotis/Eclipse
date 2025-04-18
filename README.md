@@ -6,7 +6,10 @@
 3. scrivi sul terimanle
         a. "git init"
         b. "git add ."
-        c. "git commit -m nome_modifica
+        c. git config --global user.name "Il tuo nome di GitHub"
+        d. git config --global user.email "La tua email"
+        e. git remote add origin https://github.com/username/project_name.git .git devi aggiungerlo tu manualmente (i think)
+        f. "git commit -m "nome_modifica"
 4. apri "GitHub Desktop"
 5. clicca su tendina file -> add local depository -> selezioni la cartella  (la dir creata prima)
 6. clicca su tendina repository -> repoisitory settings
